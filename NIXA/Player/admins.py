@@ -104,7 +104,7 @@ async def stop(client, m: Message):
         except Exception as e:
             await m.reply(f"🚫 **error:**\n\n`{e}`")
     else:
-        await m.reply("❌ **nothing is streaming**")
+        await m.reply("❌ **Ajee nothing is streaming**")
 
 
 @Client.on_message(
