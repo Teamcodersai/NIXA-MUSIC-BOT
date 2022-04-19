@@ -17,7 +17,7 @@ deadlyversion = 'Spambot0.10'
 NIXA_PIC = "https://te.legra.ph/file/458d42a851b8ec54f865d.jpg"
   
 
-DEADLY = "✯ ᴍᴜsɪᴄ+ʀᴀɪᴅ sᴘᴀᴍ ʙɪᴛ ✯\n\n"
+DEADLY = "✯ ᴍᴜsɪᴄ+ʀᴀɪᴅ sᴘᴀᴍ ʙoᴛ ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
 DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
@@ -32,11 +32,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/DEMON_CREATORS"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/World_FriendShip_Zone")
+        Button.url("𝐜𝐡𝐚𝐧𝐧𝐞𝐥", "https://t.me/THE_PROFESSOR_NETWORK"),
+        Button.url("𝐬𝐮𝐩𝐩𝐨𝐫𝐭", "https://t.me/TPN_CHATROOM")
         ],
         [
-        Button.url("• ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ •", "https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
+        Button.url("• 𝐨𝐰𝐧𝐞𝐫 •", "https://t.me/PAPA_BOL_SAKTEHO")
         ]
         ]
         )
@@ -75,7 +75,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 𝗣 𝗢 𝗡 𝗚 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 𝗣 𝗢 𝗡 𝗚  𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝐑𝐎𝐁𝐎𝐓 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
