@@ -14,7 +14,7 @@ from datetime import datetime
 hl = '/'
 deadlyversion = 'Spambot0.10'
 
-NIXA_PIC = "https://te.legra.ph/file/458d42a851b8ec54f865d.jpg"
+NIXA_PIC = "https://te.legra.ph/file/316cc6e38fb87d77fa92a.jpg"
   
 
 DEADLY = "✯ ᴍᴜsɪᴄ+ʀᴀɪᴅ sᴘᴀᴍ ʙoᴛ ✯\n\n"
