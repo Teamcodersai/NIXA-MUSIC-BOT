@@ -7,15 +7,15 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "")
+SESSION_NAME = getenv("SESSION_NAME", "BQBztOc4zVywDsMvu_z1xmfU82NWfAvorlGuJOcKwahycTvuiS1r5TO8s9D7z8epzWaXrd1n8zKV4hKG6I3lp1KCY08gvXSp3Wc53WZjV81is01EuRZ_9sVQ5DgnNxRwGBhI_EriBH9pbttNEaYiWGKuBMYf8ufygtSSq45GYF5evo8V67DyQ0N38z3yohIxZl9CYU8pUH32lARl3iBlfM_kwVsa1l50pyy_-UHGU3SXnKB_pRalVeN8C0XI1952VKnxNaInoY7J5mEjrKytcoKgfGV1nAQBiDyc6BXHOvNxfWqkIcCJhCWbJhb9Kquu_OBE0goW9RKKyaHMAarWr0-qAAAAAWlv1vQA")
 BOT_TOKEN = getenv("BOT_TOKEN", "5941659598:AAFCJGzLnIYOBZz2fq2EiNgNolnFmuTphBk")
-BOT_NAME = getenv("BOT_NAME", "『𖤍 Lêɠêɳ̃ᴅᴍᴜsɪᴄ࿐』➙ ꯭🇮🇳꯭"")
-API_ID = int(getenv("API_ID", "6296490"))
-API_HASH = getenv("API_HASH", "24385183c93a98ae4155c25d9f5f64b2")
-OWNER_NAME = getenv("OWNER_NAME", "⏤͟͞ 𝙉𝙀𝙊 / αƒк [🇮🇳]𓆩🖤𓆪")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SexyyNeo")
-ALIVE_NAME = getenv("ALIVE_NAME", "⏤͟͞ 𝙉𝙀𝙊 / αƒк [🇮🇳]𓆩🖤𓆪")
-BOT_USERNAME = getenv("BOT_USERNAME", "IPMUSIXBOT")
+BOT_NAME = getenv("BOT_NAME", ➙ ꯭
+API_ID = int(getenv("API_ID", "22875242"))
+API_HASH = getenv("API_HASH", "32eddce639c6fd7fe6a40db879dcb91c")
+OWNER_NAME = getenv("OWNER_NAME", "Samsari boltey")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Samsari_boltey")
+ALIVE_NAME = getenv("ALIVE_NAME", "🥀ƗŦ'Ş βΔĐ βØ¥ ✘ 🄿🄰🄿🄿🅄🍄")
+BOT_USERNAME = getenv("BOT_USERNAME", "Team_Coder_Music_Bot")
 OWNER_ID = getenv("OWNER_ID")
 ASSISTANT_NAME = getenv("ASSISTANT_NAME", "┼⃖͢•🔥⃞⃪⃜🅐ĐĐł₵₮┼⃖͢฿ØɎ⎯꯭̽𓆩🖤𓆪")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "FRIENDZVIBES")
