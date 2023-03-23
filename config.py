@@ -7,7 +7,7 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "BQBztOc4zVywDsMvu_z1xmfU82NWfAvorlGuJOcKwahycTvuiS1r5TO8s9D7z8epzWaXrd1n8zKV4hKG6I3lp1KCY08gvXSp3Wc53WZjV81is01EuRZ_9sVQ5DgnNxRwGBhI_EriBH9pbttNEaYiWGKuBMYf8ufygtSSq45GYF5evo8V67DyQ0N38z3yohIxZl9CYU8pUH32lARl3iBlfM_kwVsa1l50pyy_-UHGU3SXnKB_pRalVeN8C0XI1952VKnxNaInoY7J5mEjrKytcoKgfGV1nAQBiDyc6BXHOvNxfWqkIcCJhCWbJhb9Kquu_OBE0goW9RKKyaHMAarWr0-qAAAAAWlv1vQA")
+SESSION_NAME = getenv("SESSION_NAME", "BQA3zAJz8wcriAHneeAaEtph3Wtbd4qQeBkilzu3sdVGrs4bzyFKomHHS2fHL5pzQBCNov8EVwL34Hz47MViJvDmOK4iqyUntx5ggB-quVSJgN8kyiH4MnIJxgqcanga55zMU6Q8nPEMW6x5bE4x_llURYMgEffLcbvNm3OcdYCgmJ2nko8JEFYPmjCpLrYe_eiS3D_vBG-BF8_s1pxgALY54QxkR8SnET4wab7BSk0Vs1p5dlDneKul0MjpWMEbdObp-5sUwvTpNYjHGa3gP5Mu-A6KZhp1yMlPh65UiPs6yBjI48uZMkVCqvFXnLf3DaoEAtpe5dqhhxYWBHvRNvEpAAAAAWlv1vQA")
 BOT_TOKEN = getenv("BOT_TOKEN", "6153257153:AAGGEFkNGwtHEMKLvj8Dx8EVbRkfPQ7YfPw")
 BOT_NAME = getenv("BOT_NAME", "🆃ҽαɱ 🅲σԃҽɾ 🅼υʂιƈ")
 API_ID = int(getenv("API_ID", "22875242"))
